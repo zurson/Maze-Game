@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/media/sf_OneDrive_-_Politechnika_dzka/III sem/SO2 - Projekty/Projekt_1_SO2/Client"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/sf_OneDrive_-_Politechnika_dzka/III sem/SO2 - Projekty/Projekt_1_SO2/Client/cmake-build-debug
